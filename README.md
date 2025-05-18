@@ -82,3 +82,11 @@ N2-ANALISEPREDITIVA/
 
 - Docker e Docker Compose instalados
 - Cliente SQL (como `psql` ou DBeaver)
+
+---
+
+## 📁 Data Warehouse
+
+O print do data warehouse criado esta armazenado na pasta [`data-warehouse`](data-warehouse), com o arquivo `.png` correspondente.
+
+---
